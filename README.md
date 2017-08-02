@@ -1,4 +1,4 @@
-#A basic angular 4 login authentication app
+# A basic angular 4 login authentication app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 

@@ -1,0 +1,13 @@
+<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+    <div class="container">
+        <a class="navbar-brand" href="#" [routerLink]="['/dashboard']">Ambaledath</a>
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav float-right">
+                <li class="nav-link"> | </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#" [routerLink]="['/login']" (click)="onLoggedout()">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
